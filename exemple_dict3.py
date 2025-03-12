@@ -1,6 +1,7 @@
 produits = {'Fraise': 2, 'Banane': 5, 'Pain': 3}
 produit_prix = {prod: f"{prix}$" for prod, prix in produits.items()}
 print(produit_prix)
+
 #autre exemple
 notes = {'math': 15, 'physics': 18, 'chemistry': 18, 'histoire': 10}
 mentions={
